@@ -1,54 +1,54 @@
 // Basic Information
-valentineName: "VAMPIRE WIFEYYY"                    // Your Valentine's name
-pageTitle: "A LITTLE WORLD FOR JANNUUU 💞👑"        // Browser tab title
+valentineName: "Delisha"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['💜', '💖', '💝', '💗', '💞', '🤍', '🦋', '🌷', '✨', '👑','💋'],  // Heart emojis in background
-    bears: ['🧸', '🐻', '🐰']                       // Bear emojis in background
+    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
+    bears: ['🧸', '🐻']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you love your little princess, Jannuuuu? 🥹💜",  // First question
-        yesBtn: "YESSS, MY PRINCESS! 💗",                         // Yes button text
-        noBtn: "Nooo 🙈",                                         // No button text
-        secretAnswer: "Wrong answer, wifeyyyy! Your princess loves you more than all the stars in the universe! 👑💜🥹"  // Hidden message
+        text: "Do you like me?",                   // First question
+        yesBtn: "Yes",                             // Yes button text
+        noBtn: "No",                               // No button text
+        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
     second: {
-        text: "HOW MUCH DO YOU LOVE YOUR PRINCESS? 👑💞",  // Second question
-        startText: "THIS MUCHHH! 💜",                     // Text before percentage
-        nextBtn: "Next, my wifeyyyy! 💖"                  // Next button text
+        text: "How much do you love me?",          // Second question
+        startText: "This much!",                   // Text before percentage
+        nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my wife forever? Your princess is claiming you for eternity! 🌷💍",  // Final question
-        yesBtn: "YESSS, FOREVER! 💜👑",                   // Yes button text
-        noBtn: "Nooo, never! 🙈"                          // No button text
+        text: "Will you be my Valentine...?",      // Final question
+        yesBtn: "Yes!",                            // Yes button text
+        noBtn: "No"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "OVER 5000%?! OUR LOVE JUST LEFT THE UNIVERSE! 💜🚀🥹",  // Shows above 5000%
-    high: "INFINITY IS TOO SMALL FOR OUR LOVE! 🌌💞👑",                // Shows above 1000%
-    normal: "AND BEYONDDDD! YOUR PRINCESS WILL ALWAYS LOVE YOU! 💜🫶" // Shows above 100%
+    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
+    normal: "And beyond! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "YAYYYYY! YOUR PRINCESS IS THE LUCKIEST GIRL IN THE UNIVERSE! 👑💜🎉",  // Celebration title
-    message: "Come here, my Jannuuuu! Your princess owes you infinite hugs, a million kisses, and a lifetime of love! 🤗💋💜",  // Celebration message
-    emojis: "👑💜🎁🧸🌷💖🤗💋💕🦋✨"  // Celebration emojis
+    title: "Yay! I'm the luckiest person...",     // Celebration title
+    message: "Now come get your gift...",          // Celebration message
+    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
 // Website Colors
 colors: {
-    backgroundStart: "#E6E6FA",      // Lavender background gradient start
-    backgroundEnd: "#F8F0FF",        // Soft lilac background gradient end
-    buttonBackground: "#9575CD",     // Lavender button color
-    buttonHover: "#7E57C2",          // Deeper lavender hover color
-    textColor: "#5E35B1"             // Rich purple text color
+    backgroundStart: "#ffafbd",      // Background gradient start
+    backgroundEnd: "#ffc3a0",        // Background gradient end
+    buttonBackground: "#ff6b6b",     // Button color
+    buttonHover: "#ff8787",          // Button hover color
+    textColor: "#ff4757"            // Text color
 }
 
 // Animation Settings
@@ -64,7 +64,7 @@ music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
     musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
-    startText: "🎵 Play Our Song, Jannuuuu 💜", // Button text to start music
+    startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
-        }
+}
